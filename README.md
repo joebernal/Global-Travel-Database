@@ -148,9 +148,5 @@ For the complete list of queries, check out:
 
 ---
 
-This section is now properly formatted and includes all references. Let me know if you'd like further refinements!
-
----
-
 ## **License**
 This project is licensed under the **MIT License**. Feel free to use and modify it.
