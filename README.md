@@ -137,9 +137,18 @@ For the complete list of queries, check out:
 ---
 
 ## **References**
-- **The Global Economy** - *(Data on food prices, crime rates, and economic factors)*  
-  - [Fish & Seafood Prices](https://www.theglobaleconomy.com/rankings/fish_seafood_prices_wb/)
-  - [Homicide Rates](https://www.theglobaleconomy.com/rankings/homicide_rate/)
+- **The Global Economy** - *(Data on food prices, crime rates, and economic indicators)*  
+  - [Fish & Seafood Prices](https://www.theglobaleconomy.com/rankings/fish_seafood_prices_wb/) *(TheGlobalEconomy.com, 2017)*  
+  - [Meat Prices](https://www.theglobaleconomy.com/rankings/meat_prices_wb/) *(TheGlobalEconomy.com, 2017)*  
+  - [Milk, Cheese, and Eggs Prices](https://www.theglobaleconomy.com/rankings/milk_cheese_eggs_prices_wb/) *(TheGlobalEconomy.com, 2017)*  
+  - [Fruit Prices](https://www.theglobaleconomy.com/rankings/fruit_prices_wb/) *(TheGlobalEconomy.com, 2017)*  
+  - [Kidnapping Rates](https://www.theglobaleconomy.com/rankings/kidnapping/) *(TheGlobalEconomy.com, 2017)*  
+  - [Robbery Rates](https://www.theglobaleconomy.com/rankings/robery/) *(TheGlobalEconomy.com, 2017)*  
+  - [Homicide Rates](https://www.theglobaleconomy.com/rankings/homicide_rate/) *(TheGlobalEconomy.com, 2017)*  
+
+---
+
+This section is now properly formatted and includes all references. Let me know if you'd like further refinements!
 
 ---
 
