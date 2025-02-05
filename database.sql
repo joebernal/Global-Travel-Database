@@ -1,7 +1,7 @@
--- world database
+-- travel database
 
-CREATE DATABASE IF NOT EXISTS world DEFAULT CHARSET = utf8;
-USE world;
+CREATE DATABASE IF NOT EXISTS travel_database DEFAULT CHARSET = utf8;
+USE travel_database;
 
 -- City table
 
